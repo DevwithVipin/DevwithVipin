@@ -2,19 +2,16 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipin+Kumar" alt="Typing SVG" />
   </h1>
+  
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Building+the+web%2C+one+line+at+a+time;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </h3>
+
   <img src="https://komarev.com/ghpg/?username=devwithvipin&label=Profile%20views&color=0e75b6&style=flat" alt="devwithvipin" />
-  <br/>
-  <!-- Developer Quotes Section -->
-  <div align="center">
+  
+  <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.%20😎" alt="Quote" />
-  </div>
-  <br/>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Every+great+developer+you+know+got+there+by+solving+problems;The+only+way+to+learn+a+new+programming+language+is+by+writing+programs+in+it;Software+is+a+great+combination+of+artistry+and+engineering;Programming+isn't+about+what+you+know%2C+it's+about+what+you+can+figure+out" alt="Developer Quotes" />
-  </div>
+  </p>
 </div>
 
 ---
@@ -23,9 +20,9 @@
 
 🔭 I'm currently working as a **Software Engineer Intern at Cars24**
 
-🌱 I'm currently exploring **Micro Frontend Architecture and TypeScript**
+🌱 I'm currently exploring **Full stack development and AWS**
 
-💬 Ask me about **React, Node.js, TypeScript, and System Design**
+💬 Ask me about **MERN, AWS, Python and DSA**
 
 📫 How to reach me: **vipinmishra00516@gmail.com**
 
@@ -69,8 +66,8 @@
 
 #### 1. Project Management System
 - Built with TypeScript, React.js, Next.js, Node.js, PostgreSQL, AWS
-- Features drag-and-drop task management
-- Integrated AWS Cognito for authentication
+- Features drag-and-drop task management, searching,sorting and file export
+- Integrated AWS Cognito, AWS amplify for authentication
 - Dark/light mode theme support
 - Deployed on AWS EC2 with S3 for static assets
 
@@ -117,7 +114,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vipin-kumar00516/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/the_coderguy/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://github.com/DevwithVipin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://github.com/DevwithVipin/DevwithVipin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
