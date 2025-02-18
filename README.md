@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Building+the+web%2C+one+line+at+a+time;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
   </h3>
 
-  <img src="https://komarev.com/ghpg/?username=Devwithvipin&label=Profile%20views&color=0e75b6&style=flat" alt="devwithvipin" />
+
   
   <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.%20😎" alt="Quote" />
