@@ -1,11 +1,22 @@
 <div align="center">
-  <h1>Hi 👋, I'm Vipin Kumar</h1>
-  <h3>A passionate Full Stack Developer from India 🇮🇳</h3>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vipin+Kumar" alt="Typing SVG" />
+  </h1>
   
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Building+the+web%2C+one+line+at+a+time;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  </h3>
+
   <img src="https://komarev.com/ghpg/?username=devwithvipin&label=Profile%20views&color=0e75b6&style=flat" alt="devwithvipin" />
+  
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.%20😎" alt="Quote" />
+  </p>
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🔭 I'm currently working as a **Software Engineer Intern at Cars24**
 
@@ -93,12 +104,17 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devwithvipin&theme=radical" alt="GitHub Streak" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=devwithvipin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
 </div>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/devwithvipin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/the_coderguy" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/vipin-kumar00516/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/the_coderguy/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://github.com/DevwithVipin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="https://github.com/DevwithVipin/DevwithVipin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
