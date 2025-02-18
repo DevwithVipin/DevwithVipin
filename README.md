@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🔭 I'm currently working as a **Software Engineer Intern at Cars24**
 
@@ -94,26 +94,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=devwithvipin&show_icons=true&theme=radical" alt="devwithvipin's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithvipin&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devwithvipin&theme=radical" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=devwithvipin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/vipin-kumar00516/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/the_coderguy/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<img src="https://github.com/DevwithVipin/DevwithVipin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/DevwithVipin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
