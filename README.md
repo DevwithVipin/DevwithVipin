@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔭 I'm currently working as a **Software Engineer Intern at Cars24**
+🔭 I'm currently working as a **SDE 1 at Cars24**
 
 🌱 I'm currently exploring **Full stack development and AWS**
 
